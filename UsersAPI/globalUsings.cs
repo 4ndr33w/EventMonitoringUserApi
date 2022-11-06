@@ -1,0 +1,10 @@
+﻿global using Pomelo.EntityFrameworkCore.MySql;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata;
+global using UsersAPI.DataContext;
+global using UsersAPI.Models;
+global using UsersAPI.Models.Dto;
+global using UsersAPI.Models.Repository;
+//global using UsersAPI.Repository;
+global using AutoMapper;
